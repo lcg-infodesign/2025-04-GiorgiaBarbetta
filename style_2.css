@@ -12,27 +12,17 @@ canvas {
 h1{
   color: whitesmoke;
   text-align: center;
-  margin-bottom: 10px;
-}
 
-h3{
-  color: whitesmoke;
-  text-align: center;
-  margin-top: 5px;
 }
-
 
 #sketch-holder {
   display: flex;
   justify-content: center;   
-  align-items: center;      
-         
+  align-items: center;        
 }
 
-p{
+.h3{
   color: whitesmoke;
-  text-align: left;
-  font-size: 10pt;
-  margin-left: 30px;
+  text-align: center;
 
 }
